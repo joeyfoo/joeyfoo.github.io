@@ -1,0 +1,32 @@
+---
+layout: default
+title: Collections
+---
+
+<article class="wide">
+
+  <h1>{{ page.title | escape }}</h1>
+
+  {{ content }}
+
+<hr>
+
+  <ul class="feature-list">
+    {% assign sorted = site.projects | sort: 'year' | reverse %}
+    {% for post in sorted %}
+    <li class="feature-item">
+      <a href="{{ post.url | relative_url }}" {% if post.image %}style="background-image:url({{post.image}});"{% endif %}>
+        <div class="feature-details" {% if post.color %}style="background-color:{{post.color}};"{% endif %}>
+          <div class="feature-title">{{ post.title | escape }}</div>
+          <div class="feature-subtitle">{{ post.subtitle | escape }}</div>
+          <div class="feature-info">
+            {{ post.excerpt | strip_html }}
+          </div>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+
+  </ul>
+
+</article>

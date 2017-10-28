@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article>
+
+  <h1>
+    <a href="../"  class="back-link">{{ page.collection | escape}} /</a> 
+    {{ page.title | escape }}
+  </h1>
+
+  {% if page.description %}
+  <p class="lead">
+    {{ page.description }}
+  </p>
+  {% endif %}
+
+  {{ content }}
+
+</article>

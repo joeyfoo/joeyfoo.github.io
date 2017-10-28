@@ -1,0 +1,96 @@
+---
+layout: default
+title: Home
+---
+<style>
+  body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+  }
+  .intro h1{
+    color: #aaa;
+    margin-bottom: 0 !important;
+    border: none;
+    margin-top: 0.5rem;
+  }
+  .intro h1 em{
+    color: #fff;
+    font-style: normal;
+  }
+  .links{
+    padding: 0;
+    list-style: none;
+  }
+  .links li{
+    display: inline-block;
+    padding-right: 1rem;
+  }
+  .links a{
+    border: none;
+  }
+  .links a:hover{
+    text-decoration: none;
+  }
+  .links a:hover svg{
+    fill: #fff;
+  }
+  .links svg{
+    height: 1.5rem;
+    fill: #ccc;
+    vertical-align: top;
+  }
+  .links .icon-text{
+    font-size: 0;
+  }
+  .links .text-button{
+    border: 1px solid currentColor;
+    border-radius: calc(0.5rem - 1px);
+    padding: calc(0.25rem - 1px) calc(0.75rem - 1px);
+  }
+</style>
+
+<div class="wide">
+  <div class="intro">
+    <h1>Hi, I'm <em>Joey Foo</em>.</h1>
+
+    <p>Software Developer / Photographer / Transport Enthusiast</p>
+
+    <ul class="links">
+      <li>
+        <a href="https://twitter.com/joeyfjj">
+          {% include icons/twitter.svg %}
+          <span class="icon-text">Twitter</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/joeyfjj/">
+          {% include icons/instagram.svg %}
+          <span class="icon-text">Instagram</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/user/joeyfjj">
+          {% include icons/youtube.svg %}
+          <span class="icon-text">YouTube</span>
+        </a>
+      </li>
+      <li>
+        <a href="{% link posts.md %}" class="text-button">
+          Blog
+        </a>
+      </li>
+      <li>
+        <a href="{% link about.md %}" class="text-button">
+          About me
+        </a>
+      </li>
+    </ul>
+
+    <p>
+      {{ content }}
+    </p>
+
+  </div>
+</div>

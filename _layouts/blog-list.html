@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article class="wide">
+
+  <h1>{{ page.title | escape }}</h1>
+
+  {{ content }}
+
+  <hr>
+  
+  <ul class="feature-list">
+    {% for post in site.posts %}
+    <li class="feature-item">
+      <a href="{{ post.url | relative_url }}" {% if post.image %}style="background-image:url({{post.image}});"{% endif %}>
+        <div class="feature-details" {% if post.color %}style="background-color:{{post.color}};"{% endif %}>
+          <div class="feature-title">{{ post.title | escape }}</div>
+          <div class="feature-subtitle">{{ post.date | date_to_string }}</div>
+          <div class="feature-info">
+            {{ post.excerpt | strip_html }}
+          </div>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+
+  <p class="rss-subscribe"><small>Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></small></p>
+
+</article>
