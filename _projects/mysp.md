@@ -13,7 +13,7 @@ year: 2013-10
 
 The app provides a quick peek of the next two lessons and provides access to the full student timetable. It also includes other tools, including SP Cam and the campus map.
 
-I've also [written a blog post about the development process of the app](/blog/about-mysp/).
+This app is no longer being maintained, but will continue to remain on the store. I've also [written a blog post about the development process and future of the app](/blog/about-mysp/).
 
 ![Image of the app](/assets/images/mysp.jpg)
 

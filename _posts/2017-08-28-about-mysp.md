@@ -11,7 +11,7 @@ color: \#9a3235
 
 ![Main page panorama control of the My SP app](/assets/images/mysp-flow.jpg)
 
-At the time, I was using a Nokia Lumia 820 (which ran Windows Phone). Without an official SP Mobile app, my options for checking my timetable were either to try to navigate the student portal on a phone, or to use an old screenshot I had taken of it. 
+At the time, I was using a Nokia Lumia 820 (which ran Windows Phone). Without an official SP Mobile app, my options for checking my timetable were either to try to navigate the student portal on a phone, or to use screenshots of the timetable. 
 
 ## Reverse engineering
 
@@ -25,18 +25,25 @@ This has since changed in later years -- the SP Mobile app now requires a login 
 
 SP Mobile has a module-based navigation system, where the main landing page of the app contains a grid of icons, with each icon opening individual modules (such as Timetable, SP Cam, or Campus Map). [Here's a link to Android Play, with screenshots.](https://play.google.com/store/apps/details?id=org.sp.SPMobile)
 
-Since the primary purpose of the My SP app is to provide timetable access, I opted to display the next two lessons above-the-fold, right on the main page. This eliminates the time spent drilling down to the timetable module, which was a common complaint with the official SP Mobile app.
+Since the primary purpose of the My SP app is to provide timetable access, I opted to display the next two lessons above-the-fold, right on the main page. This eliminates time spent drilling down into the timetable module on the official SP Mobile app.
+
+Here's how the design of the app changed as it was developed:
 
 ![Design progression of the app](/assets/images/mysp-design.gif)
 
 ## A job half-done
 
-Although I quickly published the app and followed up with a few bug fix releases, there were still some features that never made it. The app shipped without live tile support; I didn't manage to implement offline mode which displayed cached data; and finally the app was bodged together with rather sloppy coding. 
+Although I quickly published the app and followed up with a few bug fix releases, there were still some features that never made it. Live tile support wasn't added; I didn't manage to implement offline mode which displayed cached data; and finally the app was bodged together with some rather sloppy code. 
 
-That said, I did manage to ship a working app albeit without those features. If I had worried about rewriting the code and structuring it better (as I almost did), it would have been likely that I would have abandoned this project before it was complete. 
+That said, I did manage to ship a working app. If I had worried about rewriting the code and structuring it better (as I almost did), it would have been likely that I would have abandoned this project before it was complete. 
 
 ## What's next?
 
 There won't be any further updates to the app. No longer being a student meant that maintaining the app was hard without being able to test it out myself. 
 
-The app will continue to remain available on the store for as long as Microsoft is willing to list it (It's a Windows Phone 7 Silverlight app, if I recall correctly), and while SP continues to serve timetable data on that old endpoint. I'll remove the app the moment it stops working. 
+The app will continue to remain available on the store as long as:
+
+* Microsoft is willing to list it there (It's a Windows Phone 7 Silverlight app after all)
+* SP continues to serve timetable data on that old endpoint. 
+
+I'll remove the app the moment it stops working. 
