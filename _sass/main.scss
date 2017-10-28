@@ -46,6 +46,11 @@ body{
   background-image: linear-gradient(#111, #222);
   background-size: 100% 720px;
   background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -174,6 +179,7 @@ hr{
 
 main{
   padding: 1rem;
+  flex: 1;
 }
 
 .site-header{
