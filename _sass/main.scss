@@ -94,10 +94,16 @@ main{
   p, h1, h2, h3, h4, h5, h6, pre, ul, ol, img, a, dl, hr, .embed{
     margin: 0 auto 1rem;
     max-width: 40rem;
+    img{
+      max-width: 100%;
+    }
   }
   .wide{
     p, h1, h2, h3, h4, h5, h6, pre, ul, ol, img, a, dl, hr, .embed{
       max-width: 50rem;
+      img{
+        max-width: 100%;
+      }
     }
   }
   h1, h2, h3{
@@ -188,6 +194,7 @@ main{
   flex-direction: row;
   flex-wrap: wrap;
   margin: 0 auto;
+  padding: 1rem;
   max-width: 50rem;
 }
 .site-header a{
@@ -203,11 +210,11 @@ nav{
 }
 ul.site-pages{
   text-align: right;
-  margin: 0;
+  margin: 0 -1rem;
 }
 ul.site-pages li{
   display: inline-block; 
-  margin-left: 2rem;
+  margin: 0 1rem;
   font-size: 0.75rem;
 }
 footer{
@@ -217,7 +224,7 @@ footer{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 0;
+  padding: 1rem;
   font-size: 0.75rem;
   opacity: 0.75;
 }
@@ -258,6 +265,7 @@ footer p:last-of-type{
     #444 75%
   );
   background-size: 4px 4px;
+  max-width: 100%;
 }
 .feature-item a{
   height: 100%;
@@ -307,6 +315,28 @@ footer p:last-of-type{
 {
   .feature-item{
     flex-basis: 100%;
+  }
+}
+
+@media (max-width: 32rem)
+{
+  header{
+    flex-direction: column;
+    nav{
+      width: 100%;
+      padding-top: 1rem;
+    }
+    ul.site-pages{
+      text-align: left;
+      padding: 0;
+    }
+  }
+  footer{
+    display: block;
+  }
+  
+  footer p:last-of-type{
+    text-align: left;
   }
 }
 

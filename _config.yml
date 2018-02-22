@@ -44,3 +44,5 @@ permalink: /posts/:title/
 collections:
   projects: 
     output: true
+
+excerpt_separator: "\n"

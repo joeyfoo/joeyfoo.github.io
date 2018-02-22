@@ -13,7 +13,7 @@ year: 2013-10
 
 The app provides a quick peek of the next two lessons and provides access to the full student timetable. It also includes other tools, including SP Cam and the campus map.
 
-This app is no longer being maintained, but will continue to remain on the store. I've also [written a blog post about the development process and future of the app](/blog/about-mysp/).
+This app is no longer being maintained, but will continue to remain on the store. I've also [written a blog post about the development process and future of the app](/posts/about-mysp/).
 
 ![Image of the app](/assets/images/mysp.jpg)
 
@@ -22,7 +22,7 @@ This app is no longer being maintained, but will continue to remain on the store
 <p class="lead warning">Please note that this app is no longer being maintained. </p>
 
 * [{% include icons/external-link.svg %} **Download** from the Windows Store](http://www.windowsphone.com/s?appid=369bb9b2-081e-4b51-a92b-80a783f484bb)
-* [My blog post about the design and development process](/blog/about-mysp/)
+* [My blog post about the design and development process](/posts/about-mysp/)
 
 ![Download from the Windows Store](/assets/images/get-it-from-microsoft.png)
  
