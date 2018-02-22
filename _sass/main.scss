@@ -25,7 +25,7 @@ $body-header-color: #fff;
 $body-color: #ccc;
 $body-bg: #222;
 $dt-font-weight: bold;
-$link-color: #ccc;
+$link-color: #ccc; 
 $link-decoration: none;
 $link-hover-color: #fff;
 $link-hover-decoration: none;
@@ -184,7 +184,7 @@ hr{
 }
 
 main{
-  padding: 1rem;
+  padding: 1rem 0;
   flex: 1;
 }
 
@@ -194,7 +194,6 @@ main{
   flex-direction: row;
   flex-wrap: wrap;
   margin: 0 auto;
-  padding: 1rem;
   max-width: 50rem;
 }
 .site-header a{
@@ -224,7 +223,6 @@ footer{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 1rem;
   font-size: 0.75rem;
   opacity: 0.75;
 }
