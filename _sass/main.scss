@@ -207,6 +207,7 @@ main{
   display: block;
   font-weight: bold;
   flex: 0 0 auto;
+  margin-right: 2rem;
 }
 nav{
   flex: 1 1 auto;
@@ -309,7 +310,7 @@ footer p:last-of-type{
   text-decoration: none;
   .feature-details{
     margin-top: 0;
-    transition: margin-top 0.25s ease-in;
+    transition: margin-top 0.1s linear;
   }
 }
 
