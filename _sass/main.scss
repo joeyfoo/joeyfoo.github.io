@@ -148,6 +148,10 @@ a.back-link:focus, a.back-link:hover{
   padding: calc(0.25rem - 1px) calc(0.75rem - 1px);
 }
 
+del{
+  opacity: 0.5;
+}
+
 p > img:only-child{
   display: block;
 }
