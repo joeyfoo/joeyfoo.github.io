@@ -30,7 +30,7 @@ I've decided to give away these keys instead of letting them sit in my inventory
 * Citizens of Earth
 * Contagion *(x4)*
 * Divinity: Dragon Commander
-* Insurgency
+* ~~Insurgency~~
 * Men of War: Assault Squad GOTY
 * Teslagrad
 
@@ -55,11 +55,11 @@ I've decided to give away these keys instead of letting them sit in my inventory
 
 ### Humble Origin Bundle
 
-* Battlefield 3 (Origin)
-* Burnout Paradise: The Ultimate Box (Origin or Steam)
+* ~~Battlefield 3 (Origin)~~
+* Burnout Paradise: The Ultimate Box (Origin ~~or Steam~~)
 * Command & Conquer: Red Alert 3 - Uprising (Origin or Steam)
 * Crysis 2 Maximum Edition (Origin or Steam)
-* Dead Space 3 (Origin)
+* ~~Dead Space 3 (Origin)~~
 * Dead Space (Origin or Steam)
 * Mirror's Edge (Origin or Steam)
 * Populous (Origin)
