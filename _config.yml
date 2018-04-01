@@ -46,3 +46,5 @@ collections:
     output: true
 
 excerpt_separator: "\n"
+
+google_analytics: true
