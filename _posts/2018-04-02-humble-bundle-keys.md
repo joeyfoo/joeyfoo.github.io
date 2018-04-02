@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Want some Humble Bundle keys?"
+title: "Want some game keys?"
 hidden: true
 ---
 
@@ -57,9 +57,9 @@ I've decided to give away these keys instead of letting them sit in my inventory
 
 * ~~Battlefield 3 (Origin)~~
 * Burnout Paradise: The Ultimate Box (Origin ~~or Steam~~)
-* Command & Conquer: Red Alert 3 - Uprising (Origin or Steam)
-* Crysis 2 Maximum Edition (Origin or Steam)
+* Command & Conquer: Red Alert 3 - Uprising (Origin ~~or Steam~~)
+* ~~Crysis 2 Maximum Edition (Origin or Steam)~~
 * ~~Dead Space 3 (Origin)~~
 * Dead Space (Origin or Steam)
-* Mirror's Edge (Origin or Steam)
+* ~~Mirror's Edge (Origin or Steam)~~
 * Populous (Origin)
