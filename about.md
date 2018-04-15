@@ -5,7 +5,7 @@ title: About
 
 Hello! I'm Joey, and I'm a software developer, a photographer, and a public transport enthusiast. 
 
-You may know me from some of the things I've done: 
+You may know me from some of the things I do: 
 
 * I'm a moderator on [the official Rainbow Six Discord server](https://discord.gg/rainbow6). 
 * I'm a tech for the [Nerd<sup>3</sup> Fanservers](http://n3fs.co.uk/).

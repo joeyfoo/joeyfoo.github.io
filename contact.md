@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-You can send me a tweet on Twitter [@joeyfjj](https://twitter.com/joeyfjj) or a message on Discord to `joeyfjj#8180`. 
+You can send me a tweet on Twitter [@joeyfjj](https://twitter.com/joeyfjj) or a message on Discord to `joeyfjj#0001`. 
 
 Alternatively, drop me an email at `hello at joeyfoo.com`. 
 
