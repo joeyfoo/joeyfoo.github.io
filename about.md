@@ -20,14 +20,16 @@ You can find more on [the Projects page]({% link projects.md %}).
 
 ## Elsewhere on the internet...
 
-* [{% include icons/twitter.svg %} Twitter](https://twitter.com/joeyfjj) -- @joeyfjj
-* [{% include icons/instagram.svg %} Instagram](https://www.instagram.com/joeyfjj/) -- @joeyfjj
-* [{% include icons/github.svg %} GitHub](https://github.com/joeyfoo) -- joeyfoo 
-* [{% include icons/discord.svg %} Discord](https://discordapp.com/) -- joeyfjj#8180 
-* [{% include icons/flickr.svg %} Flickr](https://www.flickr.com/photos/joeyfoo/) -- <small>I upload some of my nicer photographs to Flickr.</small>
-* [{% include icons/youtube.svg %} YouTube](https://www.youtube.com/user/joeyfjj) -- <small>For the occasional videos I capture and edit.</small>
+* [{% include icons/twitter.svg %} Twitter -- @joeyfjj](https://twitter.com/joeyfjj)
+* [{% include icons/github.svg %} GitHub -- joeyfoo](https://github.com/joeyfoo)
+* [{% include icons/discord.svg %} Discord -- joeyfjj#0001](https://discordapp.com/)
+* [{% include icons/flickr.svg %} Flickr -- joeyfoo](https://www.flickr.com/photos/joeyfoo/) <small>I upload some of my nicer photographs to Flickr.</small>
+* [{% include icons/instagram.svg %} Instagram -- @joeyfjj](https://www.instagram.com/joeyfjj/)
+* [{% include icons/youtube.svg %} YouTube -- joeyfjj](https://www.youtube.com/user/joeyfjj) <small>For the occasional videos I capture and edit.</small>
+* [{% include icons/youtube.svg %} YouTube -- joeyfjj2](https://www.youtube.com/channel/UCJXRrmE82RZ9WoUScgp7STA) <small>A second YouTube channel for uploading random gaming-related clips.</small>
 
-* SGTransport -- My transport-focused content are posted under this handle. 
+
+* SgTransport -- My public transport-related content are posted under this handle. 
     * [Flickr](https://www.flickr.com/photos/sgtransport/) 
     * [YouTube](https://www.youtube.com/user/SingaporeTransport) 
 
