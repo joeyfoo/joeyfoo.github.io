@@ -2,7 +2,7 @@
 layout: post
 title: "The story of My SP"
 image: /assets/images/mysp.jpg
-color: \#9a3235
+color: 9a3235
 ---
 
 <p class="lead">A look at the design and development process of the My SP app. </p>

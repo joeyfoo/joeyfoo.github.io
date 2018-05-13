@@ -4,7 +4,7 @@ layout: feature
 title: My SP app
 subtitle: Windows Phone app
 image: /assets/images/mysp.jpg
-color: \#9a3235
+color: 9a3235
 
 year: 2013-10
 ---

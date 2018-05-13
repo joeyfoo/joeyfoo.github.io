@@ -14,7 +14,7 @@ layout: default
     {% for post in site.posts %}
     <li class="feature-item">
       <a href="{{ post.url | relative_url }}" {% if post.image %}style="background-image:url({{post.image}});"{% endif %}>
-        <div class="feature-details" {% if post.color %}style="background-color:{{post.color}};"{% endif %}>
+        <div class="feature-details" {% if post.color %}style="background-color:#{{post.color}};"{% endif %}>
           <div class="feature-title">{{ post.title | escape }}</div>
           <div class="feature-subtitle">{{ post.date | date_to_string }}</div>
           <div class="feature-info">

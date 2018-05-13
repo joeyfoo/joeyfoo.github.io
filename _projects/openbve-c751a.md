@@ -5,7 +5,7 @@ title: C751A for openBVE
 subtitle: Train add-on for openBVE train simulator
 
 image: /assets/images/openbve-c751a/1-exterior.jpg
-color: \#708
+color: 708
 
 year: 2014-03
 ---
@@ -30,10 +30,10 @@ This is an add-on for openBVE - the free train simulator.
 <ul class="no-bullet">
     <li><img src="/assets/images/openbve-c751a/1-exterior.jpg" alt="Image of C751A" title="Exterior of the train"></li>
     <li><img src="/assets/images/openbve-c751a/2-exterior.jpg" alt="Image of C751A" title="Clearer view of the train exterior on the sides."></li>
-    <li><img src="/assets/images/openbve-c751a/3-undercarriage.png" alt="Image of C751A" title="The undercarriage is now modelled in 3D."></li>
-    <li><img src="/assets/images/openbve-c751a/4-cab.png" alt="Image of C751A" title="Interior."></li>
+    <li><img src="/assets/images/openbve-c751a/3-undercarriage.jpg" alt="Image of C751A" title="The undercarriage is now modelled in 3D."></li>
+    <li><img src="/assets/images/openbve-c751a/4-cab.jpg" alt="Image of C751A" title="Interior."></li>
     <li><img src="/assets/images/openbve-c751a/5-interior.jpg" alt="Image of C751A" title="Interior."></li>
-    <li><img src="/assets/images/openbve-c751a/6-interior.png" alt="Image of C751A" title="Interior"></li>
+    <li><img src="/assets/images/openbve-c751a/6-interior.jpg" alt="Image of C751A" title="Interior"></li>
 </ul>
 
 ## Instructions

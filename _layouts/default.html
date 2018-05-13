@@ -3,6 +3,25 @@
 
   {% include head.html %}
 
+  {% if page.color %}
+  <style>
+  body{
+    background-color: #{{page.color}};
+  }
+  </style>
+  {% endif %}
+
+  {% if page.image %}
+  <style>
+  html{
+    background-image: url({{page.image}});
+  }
+  body{
+    background-color: transparent;
+  }
+  </style>
+  {% endif %}
+
   <body>
 
     {% include header.html %}

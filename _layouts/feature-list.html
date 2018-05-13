@@ -16,7 +16,7 @@ title: Collections
     {% for post in sorted %}
     <li class="feature-item">
       <a href="{{ post.url | relative_url }}" {% if post.image %}style="background-image:url({{post.image}});"{% endif %}>
-        <div class="feature-details" {% if post.color %}style="background-color:{{post.color}};"{% endif %}>
+        <div class="feature-details" {% if post.color %}style="background-color:#{{post.color}};"{% endif %}>
           <div class="feature-title">{{ post.title | escape }}</div>
           <div class="feature-subtitle">{{ post.subtitle | escape }}</div>
           <div class="feature-info">

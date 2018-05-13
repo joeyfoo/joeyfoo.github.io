@@ -5,7 +5,7 @@ title: Legacy OMSI 2 bus repaints
 subtitle: Vehicle repaints for OMSI 2 Bus Simulator
 
 image: /assets/images/omsi2-repaints/omsi2-smrt-citaro.jpg
-color: \#708
+color: 941
 
 year: 2015-06
 ---
