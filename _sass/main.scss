@@ -124,20 +124,28 @@ main{
     line-height: 1.0;
   }
 }
+li{
+  margin: 0.5rem auto;
+}
 
 .metadata{
   opacity: 0.5;
 }
 .lead{
+  color: #fff;
+  margin: 3rem auto;
+  font-size: 1.25rem;
+}
+.info{
   background-color: #333;
   color: #fff;
   padding: 1rem 2rem;
 }
-.lead.warning{
+.info.warning{
   background-color: #432;
   border-left: 0.25rem solid #fc0;
 }
-.lead.error{
+.info.error{
   background-color: #522;
   border-left: 0.25rem solid #f30;
 }
@@ -268,6 +276,7 @@ footer p:last-of-type{
 }
 .feature-item{
   flex: 0 1 1;
+  margin: 0;
   margin-bottom: 1rem;
   width: calc(50% - 0.5rem);
   height: 15rem;

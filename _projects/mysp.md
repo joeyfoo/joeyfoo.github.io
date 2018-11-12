@@ -19,7 +19,7 @@ This app is no longer being maintained, but will continue to remain on the store
 
 ## Downloads + Links
 
-<p class="lead warning">Please note that this app is no longer being maintained. </p>
+<p class="info warning">Please note that this app is no longer being maintained. </p>
 
 * [{% include icons/external-link.svg %} **Download** from the Windows Store](http://www.windowsphone.com/s?appid=369bb9b2-081e-4b51-a92b-80a783f484bb)
 * [My blog post about the design and development process](/posts/about-mysp/)
