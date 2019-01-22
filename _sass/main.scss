@@ -47,6 +47,8 @@ html{
   background-color: #111;
 
   background-attachment: fixed;
+
+  overflow-y: scroll;
 }
 
 body{
@@ -104,23 +106,33 @@ h4 em{
 }
 
 main{
+  max-width: 60rem;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 3rem;
+
+  article{
+    max-width: 40rem;
+    margin: 0 auto;
+  }
+  article.wide{
+    max-width: 60rem;
+  }
   p, h1, h2, h3, h4, h5, h6, pre, ul, ol, img, a, dl, hr, .embed{
     margin: 0 auto 1rem;
-    max-width: 40rem;
     img{
       max-width: 100%;
     }
   }
-  .wide{
-    p, h1, h2, h3, h4, h5, h6, pre, ul, ol, img, a, dl, hr, .embed{
-      max-width: 50rem;
-      img{
-        max-width: 100%;
-      }
-    }
+
+  h1{
+    line-height: 1.0;
+    margin-top: 0;
+    margin-bottom: 4rem;
   }
-  h1, h2, h3{
-    margin: 1.5em auto;
+  
+  h2, h3{
+    margin: 1.5em auto 1em;
     line-height: 1.0;
   }
 }
@@ -133,8 +145,8 @@ li{
 }
 .lead{
   color: #fff;
-  margin: 3rem auto;
   font-size: 1.25rem;
+  margin-top: -2rem;
 }
 .info{
   background-color: #333;
@@ -157,11 +169,13 @@ a:hover, a:focus{
   border-bottom: 1px solid currentColor;
 }
 a.back-link{
-  color: $link-color;
-  font-size: 1.5rem;
+  margin: 0 auto;
+  opacity: 0.5;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 a.back-link:focus, a.back-link:hover{
-  color: $link-hover-color;
+  opacity: 1;
 }
 .button{
   border: 1px solid currentColor;
@@ -179,7 +193,7 @@ p > img:only-child{
 
 dt{
   width: 6rem;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   text-transform: uppercase;
   font-weight: normal;
   line-height: 1.5rem;
@@ -209,7 +223,7 @@ hr{
 }
 
 main{
-  padding: 1rem 0;
+  padding: 4rem 0 1rem;
   flex: 1;
 }
 
@@ -219,7 +233,7 @@ main{
   flex-direction: row;
   flex-wrap: wrap;
   margin: 0 auto;
-  max-width: 50rem;
+  max-width: 60rem;
 }
 .site-header a{
   text-decoration: none;
@@ -245,7 +259,7 @@ ul.site-pages li{
 footer{
   width: 100%;
   margin: 0 auto;
-  max-width: 50rem;
+  max-width: 60rem;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -333,6 +347,56 @@ footer p:last-of-type{
   .feature-details{
     margin-top: 0;
     transition: margin-top 0.1s linear;
+  }
+}
+
+// Project
+.project-content, .post-content{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 4rem;
+  .writeup{
+    max-width: 40rem;
+    order: 1;
+  }
+  .infobox{
+    max-width: 20rem;
+    order: 2;
+    padding: 0;
+    padding-left: 4rem;
+    dt{
+      float: none;
+      font-size: 0.8rem;
+      width: auto;
+    }
+    dd{
+      font-size: 1.25rem;
+      color: $body-header-color;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1.5rem;
+      &:last-of-type{
+        padding-bottom: 0;
+        border-bottom: none;
+      }
+    }
+  }
+}
+
+@media (max-width: 60rem){
+  .project-content, .post-content{
+    flex-direction: column;
+    .infobox{
+      order: 1;
+      padding: 0;
+      margin-bottom: 2rem;
+      dd{
+        padding: 0;
+      }
+    }
+    .writeup{
+      order: 2;
+    }
   }
 }
 

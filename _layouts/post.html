@@ -2,20 +2,25 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post wide" itemscope itemtype="http://schema.org/BlogPosting">
 
+  <a href="../" class="back-link">Blog post</a> 
   <h1 class="post-title" itemprop="name headline">
-    <a href="../"  class="back-link">posts /</a> 
     {{ page.title | escape }}
   </h1>
-  <p class="post-meta-date metadata">{{ page.date | date_to_string }}</p>
 
   {% if page.description %}
   <p class="lead">
     {{ page.description }}
   </p>
   {% endif %}
-
-  {{ content }}
+  
+  <div class="post-content">
+    <div class="writeup">  
+      <p class="post-meta-date metadata">{{ page.date | date_to_string }}</p>
+      
+      {{ content }}
+    </div>
+  </div>
 
 </article>

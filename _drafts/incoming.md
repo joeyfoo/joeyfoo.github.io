@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: project-page
 
 title: More project write-ups soon™
 subtitle: "-"

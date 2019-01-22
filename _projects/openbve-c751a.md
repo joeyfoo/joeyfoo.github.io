@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: project-page
 
 title: C751A for openBVE
 subtitle: Train add-on for openBVE train simulator
@@ -8,8 +8,9 @@ image: /assets/images/openbve-c751a/1-exterior.jpg
 color: 708
 
 year: 2014-03
+
+description: The North East Line's Alstom Metropolis C751A trains, now in a train simulator!
 ---
-<p class="lead">The North East Line's Alstom Metropolis C751A trains, now in a train simulator!</p>
 
 This is an add-on for openBVE - the free train simulator. 
 

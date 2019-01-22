@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: project-page
 
 title: Legacy OMSI 2 bus repaints
 subtitle: Vehicle repaints for OMSI 2 Bus Simulator
@@ -8,8 +8,9 @@ image: /assets/images/omsi2-repaints/omsi2-smrt-citaro.jpg
 color: 941
 
 year: 2015-06
+
+description: A few repaints I've created for various third-party buses in OMSI 2 bus simulator.
 ---
-<p class="lead">A few repaints I've created for various third-party buses in OMSI 2 bus simulator.</p>
 
 These repaints were created back in 2015 and 2016, and were previously available under the SgTransport banner. 
 
