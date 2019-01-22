@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Contact
+
+description: Get in touch!
 ---
 
-You can send me a tweet on Twitter [@joeyfjj](https://twitter.com/joeyfjj) or a message on Discord to `joeyfjj#0001`. 
+The easiest way to reach me is on Twitter at **[@joeyfjj](https://twitter.com/joeyfjj)**, or a message on Discord to **DangerAspect#0001**. 
 
-Alternatively, drop me an email at `hello at joeyfoo.com`. 
+## Email
 
-Please **do not** add me to mailing lists or send anything that you're sending to a group of people. 
+<p class="info">Please <strong>do not</strong> add me to mailing lists or send anything that you're sending to a group of people. </p>
 
-Messages sent via Facebook/Messenger will likely never be seen. I don't use Facebook nowadays. 
+My email address is **hello at joeyfoo.com**.

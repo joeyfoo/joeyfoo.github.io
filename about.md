@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
----
 
-Hello! I'm Joey, and I'm a software developer, a photographer, and a public transport enthusiast. 
+description: Hello! I'm Joey, and I'm a software developer, a photographer, and a public transport enthusiast. 
+---
 
 You may know me from some of the things I do: 
 
@@ -22,11 +22,10 @@ You can find more on [the Projects page]({% link projects.md %}).
 
 * [{% include icons/twitter.svg %} Twitter -- @joeyfjj](https://twitter.com/joeyfjj)
 * [{% include icons/github.svg %} GitHub -- joeyfoo](https://github.com/joeyfoo)
-* [{% include icons/discord.svg %} Discord -- joeyfjj#0001](https://discordapp.com/)
+* [{% include icons/discord.svg %} Discord -- DangerAspect#0001](https://discordapp.com/)
 * [{% include icons/flickr.svg %} Flickr -- joeyfoo](https://www.flickr.com/photos/joeyfoo/) <small>I upload some of my nicer photographs to Flickr.</small>
-* [{% include icons/instagram.svg %} Instagram -- @joeyfjj](https://www.instagram.com/joeyfjj/)
 * [{% include icons/youtube.svg %} YouTube -- joeyfjj](https://www.youtube.com/user/joeyfjj) <small>For the occasional videos I capture and edit.</small>
-* [{% include icons/youtube.svg %} YouTube -- joeyfjj2](https://www.youtube.com/channel/UCJXRrmE82RZ9WoUScgp7STA) <small>A second YouTube channel for uploading random gaming-related clips.</small>
+* [{% include icons/youtube.svg %} YouTube -- DangerAspect](https://www.youtube.com/channel/UCJXRrmE82RZ9WoUScgp7STA) <small>A second YouTube channel for uploading random gaming-related clips.</small>
 
 
 * SgTransport -- My public transport-related content are posted under this handle. 

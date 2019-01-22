@@ -5,6 +5,14 @@ layout: default
 
   <h1>{{ page.title | escape }}</h1>
 
-  {{ content }}
+  {% if page.description %}
+  <p class="lead">
+    {{ page.description }}
+  </p>
+  {% endif %}
+
+  <div class="content-text">  
+    {{ content }}
+  </div>
 
 </article>

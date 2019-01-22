@@ -112,11 +112,8 @@ main{
   padding-top: 3rem;
 
   article{
-    max-width: 40rem;
-    margin: 0 auto;
-  }
-  article.wide{
     max-width: 60rem;
+    margin: 0 auto;
   }
   p, h1, h2, h3, h4, h5, h6, pre, ul, ol, img, a, dl, hr, .embed{
     margin: 0 auto 1rem;
@@ -350,15 +347,21 @@ footer p:last-of-type{
   }
 }
 
+.content-text{
+  max-width: 40rem;
+  margin: 0 auto;
+  margin-top: 4rem;
+}
+
 // Project
 .project-content, .post-content{
   display: flex;
   flex-direction: row;
   justify-content: center;
   margin-top: 4rem;
-  .writeup{
-    max-width: 40rem;
+  .content-text{
     order: 1;
+    margin: 0 auto;
   }
   .infobox{
     max-width: 20rem;
@@ -394,7 +397,7 @@ footer p:last-of-type{
         padding: 0;
       }
     }
-    .writeup{
+    .content-text{
       order: 2;
     }
   }
