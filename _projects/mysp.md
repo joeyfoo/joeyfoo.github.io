@@ -64,7 +64,7 @@ The app loads into the main page with a Panorama, showing the next two lessons a
 
 ## Privacy policy and data use
 
-This privacy policy is last updated 28 August 2013. If there are differences between copies of this policy, the one located here applies.
+This privacy policy was last updated 28 August 2013. If there are differences between copies of this policy, the one located here applies.
 
 My SP only stores your student admission number (or admin number), which you provide through the Settings page. This information is stored locally on your device. It is only used when communicating with SP's servers, when retrieving your timetable.
 

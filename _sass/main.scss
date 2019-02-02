@@ -351,6 +351,7 @@ footer p:last-of-type{
   max-width: 40rem;
   margin: 0 auto;
   margin-top: 4rem;
+  width: 100%;
 }
 
 // Project
@@ -397,6 +398,29 @@ footer p:last-of-type{
     .content-text{
       order: 2;
     }
+  }
+}
+
+//Collapsible
+.collapsible{
+  overflow-y: hidden;
+}
+.collapsible-collapsed{
+  max-height: 30rem;
+}
+.collapsible-expanded{
+  max-height: none;
+}
+.collapsible-toggle{
+  display: block;
+  border-top: 1px solid currentColor;
+  text-align: center;
+  border-bottom: none;
+  font-weight: bold;
+  font-size: 0.9rem;
+  line-height: 2rem;
+  &:hover, &:focus{
+    border-bottom: none;
   }
 }
 
