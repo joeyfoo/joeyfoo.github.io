@@ -41,7 +41,7 @@ The new website, apart from being more comprehensive and visually appealing, als
 
 ## Tech
 
-The previous SGTrains website was written as webpages that 1extends from the forum software. This meant the website was dependent on the forum, and any forum downtime would bring down the website too. 
+The previous SGTrains website was written as webpages that extend from the forum software. This meant the website was dependent on the forum, and any forum downtime would bring down the website too. 
 
 The new website is a static website, with the exception of the homepage which uses PHP. The website styles build upon a modified, lightweight build of Bootstrap. 
 
