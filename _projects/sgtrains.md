@@ -32,7 +32,7 @@ description: SGTrains.com is a website that documents and shares information abo
 
 SGTrains is a community of railway enthusiasts formed in 2011. Apart from being active in the local transport scene through participation and feedback, SGTrains also maintains a website documenting and sharing information about Singapore's rail network. 
 
-I designed and developed SGTrains' new website, and helped craft the group's new brand identity. 
+I designed and developed [SGTrains' new website](https://sgtrains.com/), and helped craft the group's new brand identity. 
 
 The new website, apart from being more comprehensive and visually appealing, also reduced technical complexity compared to the previous forum-based website. The new brand identity also gave the group a more professional image.
 
