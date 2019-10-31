@@ -45,9 +45,14 @@ title: Home
     font-size: 0;
   }
   .links .text-button{
-    border: 1px solid currentColor;
-    border-radius: calc(0.5rem - 1px);
-    padding: calc(0.25rem - 1px) calc(0.75rem - 1px);
+    padding-right: 1rem;
+    text-transform: uppercase;
+  }
+  .links .text-button::after{
+    content: '>';
+    display: inline-block;
+    transform: scaleX(0.5);
+    font-weight: bold;
   }
 </style>
 
@@ -59,19 +64,18 @@ title: Home
 
     <ul class="links">
       <li>
-        <a href="https://twitter.com/joeyfjj">
-          {% include icons/twitter.svg %}
-          <span class="icon-text">Twitter</span>
-        </a>
-      </li>
-      <li>
-        <a href="{% link posts.md %}" class="text-button">
-          Blog
+        <a href="https://twitter.com/joeyfjj" class="text-button">
+          Twitter
         </a>
       </li>
       <li>
         <a href="{% link about.md %}" class="text-button">
-          About me
+          About
+        </a>
+      </li>
+      <li>
+        <a href="{% link now.md %}" class="text-button">
+          Now
         </a>
       </li>
     </ul>

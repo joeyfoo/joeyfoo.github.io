@@ -44,6 +44,7 @@ exclude:
 
 header_pages:
   - about.md
+  - now.md
   - posts.md
   - projects.md
   - contact.md
