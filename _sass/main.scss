@@ -168,6 +168,10 @@ main{
     }
   }
 
+  img{
+    margin: 0 auto;
+  }
+
   h1{
     line-height: 1.0;
     margin-top: 0;
@@ -439,6 +443,13 @@ footer p:last-of-type{
         padding-bottom: 0;
         border-bottom: none;
       }
+    }
+    a{
+      display: block;
+      border: 1px solid currentColor;
+      border-radius: 0.25rem;
+      padding: 0.25rem;
+      text-align: center;
     }
   }
 }

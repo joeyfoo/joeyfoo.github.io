@@ -17,12 +17,10 @@ infobox:
     - title: Date
       content: |- 
         Launched 2015
-    - title: Technology
+    - title: Technology Stack
       content: |-
-        HTML5 (HTML/CSS/JS)
-        Bootstrap framework
-        Python
-        Source control (Git)
+        Bootstrap + PHP (site)
+        Python (data processing)
     - title: URL
       content: |-
         <a href="https://sgtrains.com/">SGTrains.com</a>

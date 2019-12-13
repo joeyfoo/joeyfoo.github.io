@@ -18,12 +18,11 @@ infobox:
     - title: Date
       content: |- 
         Staff since 2016
-    - title: Technology
+    - title: Technology Stack
       content: |-
         Ubuntu Server
-        Minecraft (Paper)
-        HTML/CSS/JS and PHP
-        Source control (Git)
+        Minecraft (PaperMC)
+        Nginx + PHP (site)
     - title: URL
       content: |-
         <a href="https://n3fs.co.uk/">N3FS.co.uk</a>
