@@ -8,23 +8,19 @@ description: What I'm working on right now!
 
 On this page, you can find what I'm working on right now!
 
-Last update: 1 November 2019
+Last update: 6 January 2020
 
 -----
 
 ## University
 
-I'm back in school! 
+It's the Spring 2020 semester, so my weekdays are mostly spent on campus or working on projects. 
 
-It's term time, so my weekdays are mostly spent on campus or working on projects. 
+## Cosplay
 
-## Echo cosplay
+The next cosplay I plan to do: Blitz! 
 
-I'm working on my first ever cosplay! 
-
-It's [Echo](https://rainbow6.ubisoft.com/siege/en-gb/game-info/operators/echo/index.aspx) from Rainbow Six: Siege, and I can't wait to finish it for Singapore Comic Con on 7-8 December 2019! 
-
-I intend to post a retrospective on this project once I'm done too.
+Nothing much to share at the moment, university still has priority and I haven't started work on the cosplay yet. 
 
 -----
 
