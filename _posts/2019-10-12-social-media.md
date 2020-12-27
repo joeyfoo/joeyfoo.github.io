@@ -59,4 +59,4 @@ I'm also going to posts anything I post on Instagram to Twitter too. Personally,
 That's all there is to it. I'll see you around on the Internet. 
 
 -- Joey  
-[@joeyfjj](https://twitter.com/joeyfjj) -- now on [Instagram](https://www.instagram.com/joeyfjj) too!
+[@DangerAspect](https://twitter.com/DangerAspect) -- now on [Instagram](https://www.instagram.com/DangerAspect) too!

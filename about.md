@@ -14,7 +14,7 @@ You may know me from some of the things I do:
 
 ## Elsewhere on the internet...
 
-* [{% include icons/twitter.svg %} Twitter -- @joeyfjj](https://twitter.com/joeyfjj)
+* [{% include icons/twitter.svg %} Twitter -- @DangerAspect](https://twitter.com/DangerAspect)
 * [{% include icons/github.svg %} GitHub -- joeyfoo](https://github.com/joeyfoo)
 * [{% include icons/discord.svg %} Discord -- DangerAspect#0001](https://discordapp.com/)
 * [**DangerAspect** -- my handle for gaming-related stuff!](https://dangeraspect.xyz/)
