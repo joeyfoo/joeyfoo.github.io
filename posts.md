@@ -1,6 +1,5 @@
 ---
 layout: blog-list
-title: Posts
+title: Blog
+description: "Welcome to my blog. Have a browse:"
 ---
-
-Welcome to my blog. Have a browse: 

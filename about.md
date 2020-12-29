@@ -14,16 +14,16 @@ You may know me from some of the things I do:
 
 ## Elsewhere on the internet...
 
-* [{% include icons/twitter.svg %} Twitter -- @DangerAspect](https://twitter.com/DangerAspect)
-* [{% include icons/github.svg %} GitHub -- joeyfoo](https://github.com/joeyfoo)
-* [{% include icons/discord.svg %} Discord -- DangerAspect#0001](https://discordapp.com/)
+* [Twitter -- @DangerAspect](https://twitter.com/DangerAspect)
+* [GitHub -- joeyfoo](https://github.com/joeyfoo)
+* [Discord -- DangerAspect#0001](https://discordapp.com/)
 * [**DangerAspect** -- my handle for gaming-related stuff!](https://dangeraspect.xyz/)
 
 <!--
 
-* [{% include icons/flickr.svg %} Flickr -- joeyfoo](https://www.flickr.com/photos/joeyfoo/) <small>I upload some of my nicer photographs to Flickr.</small>
-* [{% include icons/youtube.svg %} YouTube -- joeyfjj](https://www.youtube.com/user/joeyfjj) <small>For the occasional videos I capture and edit.</small>
-* [{% include icons/youtube.svg %} YouTube -- DangerAspect](https://www.youtube.com/channel/UCJXRrmE82RZ9WoUScgp7STA) <small>A second YouTube channel for uploading random gaming-related clips.</small>
+* [Flickr -- joeyfoo](https://www.flickr.com/photos/joeyfoo/) <small>I upload some of my nicer photographs to Flickr.</small>
+* [YouTube -- joeyfjj](https://www.youtube.com/user/joeyfjj) <small>For the occasional videos I capture and edit.</small>
+* [YouTube -- DangerAspect](https://www.youtube.com/channel/UCJXRrmE82RZ9WoUScgp7STA) <small>A second YouTube channel for uploading random gaming-related clips.</small>
 
 
 * SgTransport -- My public transport-related content are posted under this handle. 

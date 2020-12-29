@@ -1,5 +1,5 @@
 ---
-layout: project-page
+layout: page
 
 title: Operation Concrete Jungle
 subtitle: "A fan-made Rainbow Six: Siege operation"
@@ -9,7 +9,7 @@ color: 1D504C
 
 year: 2019-11
 
-infobox: 
+sidebar: 
     - title: Type
       content: |-
         Web Design and Dev.

@@ -1,33 +1,21 @@
 ---
-layout: default
+layout: page
 ---
 
-<article class="wide">
+{{content}}
 
-  <h1>{{ page.title | escape }}</h1>
-
-  {{ content }}
-
-  <hr>
-  
-  <ul class="feature-list">
-    {% for post in site.posts %}
-    <li class="feature-item">
-      <a href="{{ post.url | relative_url }}" {% if post.image %}style="background-image:url({{post.image}});"{% endif %}>
-        <div class="feature-details" {% if post.color %}style="background-color:#{{post.color}};"{% endif %}>
-          <div class="feature-title">{{ post.title | escape }}</div>
-          <div class="feature-subtitle">{{ post.date | date_to_string }}</div>
-          <div class="feature-info">
-            {{ post.description | strip_html }}
-          </div>
-        </div>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-
-  <hr>
-
-  <p class="rss-subscribe"><small>Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></small></p>
-
-</article>
+<ul class="link-collection">
+  {% for post in site.posts %}
+  <li class="link preview" {% if post.image %}style="background-image:url({{post.image}});"
+  {% endif %}>
+    <a href="{{ post.url | relative_url }}" {% if post.color %}style="background-image:linear-gradient(to top, #{{post.color}} -50%, transparent);" {% endif %}>
+      <div class="link-title">
+        {{ post.title | escape }}
+      </div>
+      <div class="link-description">
+        <p><strong>{{ post.date | date_to_string }}</strong> : {{ post.description | escape }}</p>
+      </div>
+    </a>
+  </li>
+  {% endfor %}
+</ul>

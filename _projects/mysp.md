@@ -1,5 +1,5 @@
 ---
-layout: project-page
+layout: page
 
 title: My SP app
 subtitle: App development (Windows Phone)
@@ -9,7 +9,7 @@ color: 9a3235
 
 year: 2013-10
 
-infobox: 
+sidebar: 
     - title: Type
       content: |-
         App Development
@@ -52,7 +52,7 @@ The app loads into the main page with a Panorama, showing the next two lessons a
 
 <p class="info warning">Please note that this app is no longer being maintained and updated. </p>
 
-* [{% include icons/external-link.svg %} **Download** from the Windows Store](http://www.windowsphone.com/s?appid=369bb9b2-081e-4b51-a92b-80a783f484bb)
+* [**Download** from the Windows Store](http://www.windowsphone.com/s?appid=369bb9b2-081e-4b51-a92b-80a783f484bb)
 * [My blog post about the design and development process](/posts/about-mysp/)
  
 ## Feature list
