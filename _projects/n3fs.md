@@ -1,5 +1,5 @@
 ---
-layout: project-page
+layout: page
 
 title: Nerd³ Fanservers
 subtitle: System Administration and Web Development
@@ -9,7 +9,7 @@ color: a00f27
 
 year: 2016-07
 
-infobox: 
+sidebar: 
     - title: Type
       content: |-
         System Administration

@@ -1,5 +1,5 @@
 ---
-layout: project-page
+layout: page
 
 title: C751A for openBVE
 subtitle: Train add-on for openBVE train simulator
@@ -16,7 +16,7 @@ This is an add-on for openBVE - the free train simulator.
 
 ## Downloads + Links
 
-* [{% include icons/download.svg %} **Download** from Backblaze B2](https://f001.backblazeb2.com/file/jfiles/Alstom+Metropolis+C751A+v2.1.zip)  
+* [**Download** from Backblaze B2](https://f001.backblazeb2.com/file/jfiles/Alstom+Metropolis+C751A+v2.1.zip)  
 <small>v2.1 (2014-03-24). Size: 15.3MB.</small>
 * [Operating instructions](#instructions)
 * [SGTrains Forums thread](http://forums.sgtrains.com/showthread.php?tid=3251) <small>-- I don't check the forums often.</small>

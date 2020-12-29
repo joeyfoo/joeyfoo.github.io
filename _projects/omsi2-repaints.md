@@ -1,5 +1,5 @@
 ---
-layout: project-page
+layout: page
 
 title: Legacy OMSI 2 bus repaints
 subtitle: Vehicle repaints for OMSI 2 Bus Simulator
@@ -29,7 +29,7 @@ Revised SMRT livery for the non-Facelift Citaro buses by alterr.
 
 ### Download 
 
-[{% include icons/download.svg %} **Download repaint**](https://f001.backblazeb2.com/file/jfiles/omsi-citaro-smrt.zip)  
+[**Download repaint**](https://f001.backblazeb2.com/file/jfiles/omsi-citaro-smrt.zip)  
 <small>v1 (2015-06-19). Size: 5.9MB.</small>
 * This repaint is for the following buses in the [Mercedes-Benz O530 G + O530 V2](http://www.omnibussimulator.de/forum/index.php?page=Thread&threadID=19798) pack by alterr:
   * 12m Citaro 2-door
@@ -60,7 +60,7 @@ Repaints included:
 
 ### Download 
 
-[{% include icons/download.svg %} **Download repaint**](https://f001.backblazeb2.com/file/jfiles/Scania+Citywide+Singapore+repaints+v1.zip)  
+[**Download repaint**](https://f001.backblazeb2.com/file/jfiles/Scania+Citywide+Singapore+repaints+v1.zip)  
 <small>v1 (2016-01-17). Size: 8.4MB.</small>
 * This repaint is for the [Scania Citywide GN18](http://www.omnibussimulator.de/forum/index.php?page=Thread&threadID=35947) by Wizard_Bus
 * Recommended mod: [Sound and physics update by HJALMAR ](http://aussiex.org/forum/index.php?/files/file/5551-scania-citywide-sound-physics-update-v08/)

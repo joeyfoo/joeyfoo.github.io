@@ -1,5 +1,5 @@
 ---
-layout: project-page
+layout: page
 
 title: SGTrains
 subtitle: Web Design and Development
@@ -9,7 +9,7 @@ color: 111
 
 year: 2015-04
 
-infobox: 
+sidebar: 
     - title: Type
       content: |-
         Web Design and Dev.
@@ -59,7 +59,6 @@ A style guide was also created to aid the team in creating content with a consis
 
 ## Gallery
 
-{% capture gallery %}
 ### Home page
 ![Screenshot of the SGTrains homepage](/assets/images/sgtrains/sgtrains-home.png)
 
@@ -68,6 +67,3 @@ A style guide was also created to aid the team in creating content with a consis
 ### Content pages
 ![Screenshot of the rolling stock page](/assets/images/sgtrains/sgtrains-rollingstock.png)
 ![Screenshot of the last train page](/assets/images/sgtrains/sgtrains-lasttrain.png)
-{% endcapture %}
-
-{% include collapsible.html type="start" id="screenshots" content=gallery %}

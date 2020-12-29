@@ -1,7 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Home
 layout: home
+
+welcome: Hi, I'm Joey!
+description: Student, Software Developer, Transport Enthusiast
+
+links:
 ---
 
+Welcome to my personal site! You can also find me on [Twitter](https://twitter.com/DangerAspect), or check [DangerAspect.xyz](https://dangeraspect.xyz) for hobby-related content.
