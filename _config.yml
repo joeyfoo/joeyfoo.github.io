@@ -44,7 +44,6 @@ exclude:
 
 header_pages:
   - about.md
-  - now.md
   - posts.md
   - projects.md
   - contact.md
@@ -55,6 +54,23 @@ collections:
   projects: 
     output: true
 
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "projects"
+    values:
+      parent:
+        title: Projects
+        link: "/projects" 
+  -
+    scope: 
+      path: "_posts"
+    values:
+      parent:
+        title: Blog
+        link: "/posts" 
+
 excerpt_separator: "\n"
 
-google_analytics: true
+remote_theme: joeyfoo/slate
